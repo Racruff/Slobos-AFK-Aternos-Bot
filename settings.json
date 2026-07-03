@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Bot",
     "password": "",
     "type": "offline"
   },
@@ -33,7 +33,7 @@
       "messages": [
         " ;3",
         " :P",
-        " Pogi ni Carl"!"
+        " Pogi ni Carl!"
       ]
     },
     "chat-log": true,

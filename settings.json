@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Bot",
-    "password": "",
+    "username": "Herobrian",
+    "password": "chalol78",
     "type": "offline"
   },
   "server": {
-    "ip": "racruff-WAaB.aternos.me",
-    "port": "13170",
+    "ip": "racruff-fKcm.aternos.me",
+    "port": "28459",
     "version": "1.12.2",
     "try-creative": false
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 1000,
       "messages": [
-        " ;3",
-        " :P",
-        " Pogi ni Carl!"
+        "I see you...",
+        "UWU",
+        "Pogi ni Carl!"
       ]
     },
     "chat-log": true,
